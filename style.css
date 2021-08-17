@@ -39,6 +39,8 @@ p1, p {
   }
 }
 
+
+
 @media screen and (max-width:1190px) {
   p1 {
     font-size: 80%;
